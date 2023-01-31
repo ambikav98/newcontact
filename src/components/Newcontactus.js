@@ -4,7 +4,7 @@ import './Newcontactus.css'
 
 const Newcontactus = () => {
   return (
-    <div class="contact-us-page mb-5">
+    <div class="contact-us-page mb-5 mt-5">
         <div class="d-flex flex-column bg-secondary align-items-center justify-content-center contactus-first-container" >
             <h1 class="contact-us-heading text-uppercase mb-3">Contact Us</h1>
             <div class="d-inline-flex">
@@ -15,7 +15,7 @@ const Newcontactus = () => {
         </div>
 
         
-      <div class="container-fluid pt-5 contactus-second-container">
+      <div class="container-fluid pt-5 contactus-second-container mt-5">
         <div class="text-center mb-4">
             <h2 class="section-title px-5 decorated"><span class="px-2">Contact For Any Queries</span></h2>
         </div>
